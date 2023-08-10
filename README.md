@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken594&label=Profile%20views&color=0e75b6&style=flat" alt="ken594" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Unity, C#** 
 
 - 💬 Ask me about **MERN, C#, Python**
 
