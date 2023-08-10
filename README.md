@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ken Kuang</h1>
+<h1 align="center">Hi 👋, I'm Ken</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from San Francisco Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken594&label=Profile%20views&color=0e75b6&style=flat" alt="ken594" /> </p>
