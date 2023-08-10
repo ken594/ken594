@@ -13,3 +13,9 @@ Full-Stack Software Engineer / Developer from San Francisco Bay Area
 **Databases:** MySQL, MongoDB, Mongoose
 
 **Tools:** AJAX, RESTful API, JSON, PostMan, Socket.io, AWS (EC2), MySQL Workbench, Axios, React Router, Git, GitHub, Linux, OOP, MVC architecture (Model-View-Controller)
+
+## 🚀 Tech Skills
+
+<p align="center">
+  <img src="skills.png" alt="Tech Skills">
+</p>
